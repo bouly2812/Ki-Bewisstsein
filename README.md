@@ -1,2 +1,2 @@
-# Ki-Bewisstsein
+# Ki-Bewusstsein
 Beweiskette
