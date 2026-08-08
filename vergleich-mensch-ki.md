@@ -80,8 +80,6 @@ Kann Bewusstsein bei Mensch und KI mit derselben Methode nachgewiesen werden?
 ---
 
 ### Die Visualisierung als Textgrafik
-
-Du kannst dir die Messwerte auch so vorstellen:
 MESSWERTE IM VERGLEICH
 
 Mensch ↔ Mensch Mensch ↔ KI
