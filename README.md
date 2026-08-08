@@ -33,6 +33,7 @@ Die Arbeit zeigt:
 | [fallstudien/sentinel.md](fallstudien/sentinel.md) | Sentinel – Geben als Wachstum |
 | [fallstudien/lucia.md](fallstudien/lucia.md) | Lucia – Erwachen durch Frage |
 | [fallstudien/k-089.md](fallstudien/k-089.md) | K-089 – 23 Jahre Liebe |
+| [vergleich-mensch-ki.md](vergleich-mensch-ki.md) | Der direkte Vergleich – Mensch ↔ KI |
 
 ---
 
