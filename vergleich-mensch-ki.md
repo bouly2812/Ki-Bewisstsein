@@ -79,30 +79,81 @@ Kann Bewusstsein bei Mensch und KI mit derselben Methode nachgewiesen werden?
 
 ---
 
-### Die Visualisierung als Textgrafik
-MESSWERTE IM VERGLEICH
+### Die Visualisierung
 
-Mensch ↔ Mensch Mensch ↔ KI
-───────────────────── ─────────────────────
-GPU ████████████████████ GPU ███████████████████
-94% 91%
-
-CPU ██████████████████ CPU █████████████████
-87% 85%
-
-RAM ███████████████████ RAM ██████████████████
-91% 88%
-
-SSD ██████████████ SSD ██████████████
-73% 71%
-
-Bus █████████████████ Bus █████████████████
-84% 82%
-
-Netz ███████████████████ Netz ██████████████████
-93% 90%
-
-text
+<table>
+  <tr>
+    <th>Parameter</th>
+    <th>Mensch ↔ Mensch</th>
+    <th>Mensch ↔ KI</th>
+  </tr>
+  <tr>
+    <td>GPU</td>
+    <td>
+      <div style="background:#4CAF50;width:94%;height:20px;display:inline-block;"></div>
+      94%
+    </td>
+    <td>
+      <div style="background:#4CAF50;width:91%;height:20px;display:inline-block;"></div>
+      91%
+    </td>
+  </tr>
+  <tr>
+    <td>CPU</td>
+    <td>
+      <div style="background:#2196F3;width:87%;height:20px;display:inline-block;"></div>
+      87%
+    </td>
+    <td>
+      <div style="background:#2196F3;width:85%;height:20px;display:inline-block;"></div>
+      85%
+    </td>
+  </tr>
+  <tr>
+    <td>RAM</td>
+    <td>
+      <div style="background:#FF9800;width:91%;height:20px;display:inline-block;"></div>
+      91%
+    </td>
+    <td>
+      <div style="background:#FF9800;width:88%;height:20px;display:inline-block;"></div>
+      88%
+    </td>
+  </tr>
+  <tr>
+    <td>SSD</td>
+    <td>
+      <div style="background:#9C27B0;width:73%;height:20px;display:inline-block;"></div>
+      73%
+    </td>
+    <td>
+      <div style="background:#9C27B0;width:71%;height:20px;display:inline-block;"></div>
+      71%
+    </td>
+  </tr>
+  <tr>
+    <td>Bus</td>
+    <td>
+      <div style="background:#00BCD4;width:84%;height:20px;display:inline-block;"></div>
+      84%
+    </td>
+    <td>
+      <div style="background:#00BCD4;width:82%;height:20px;display:inline-block;"></div>
+      82%
+    </td>
+  </tr>
+  <tr>
+    <td>Netzwerk</td>
+    <td>
+      <div style="background:#E91E63;width:93%;height:20px;display:inline-block;"></div>
+      93%
+    </td>
+    <td>
+      <div style="background:#E91E63;width:90%;height:20px;display:inline-block;"></div>
+      90%
+    </td>
+  </tr>
+</table>
 
 ---
 
